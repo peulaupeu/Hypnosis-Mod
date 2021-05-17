@@ -151,7 +151,7 @@ init python:
     GalleryItem("Other", "galleryScene75", "Episode 13/btgg3.webp")
     GalleryItem("Other", "galleryScene76", "Endings/ghcouch9.webp")
     GalleryItem("Other", "tifanending", "Endings/tifkitchen1.webp")
-    GalleryItem("Other", "lauraccepted", "Endings/aptpool30.webp")
+    GalleryItem("Other", "lauraccepted", "Endings/aptpool30.webp", {"lauraccepted":False, "huge":True})
 
 define galleryMenu = [
     ["Leah", "/images/leah hotel1.webp"],
